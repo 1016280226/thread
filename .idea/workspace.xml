@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e332dade-4bcb-4007-ba2e-588cc5ba305e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/daemon_03/ThreadDaemon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="66" selection-end-line="67" />
+              <folding>
+                <element signature="e#257#411#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记三 多线程-Java 内存模型.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="220">
+                <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记一 多线程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="308">
+                <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+              <folding>
+                <element signature="e#15020#15021#0" expanded="true" />
+                <element signature="e#15084#15085#0" expanded="true" />
+                <element signature="e#15704#15705#0" expanded="true" />
+                <element signature="e#15770#15771#0" expanded="true" />
+                <element signature="e#19132#19133#0" expanded="true" />
+                <element signature="e#19175#19176#0" expanded="true" />
+                <element signature="e#42956#42957#0" expanded="true" />
+                <element signature="e#42987#42988#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByHiderInner_03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="23" selection-start-line="10" selection-start-column="6" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Thread</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/thread/method/ThreadByExtends.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/thread/two_ways/ThreadByExtends.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtends.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/Thread_ByImplRunnable.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtendsThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByImplRunnable.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtendsThread_NoShared.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoSharedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplThread_Shared.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplRunnable_Shared.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoShared.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByImplRunnable_SharedTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/GetNameAndSetName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/ThreadGetAndSetName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/GetThreadNameAndSetThreadName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/ThreadIsStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/ThreadIsAlive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/ThreadJoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/ThreadSleep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common/Sleep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByHideInnerThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByHideInnerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByImplRunnableTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByHiderInnerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByExtendsThread_NoSharedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByHiderInner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ImplRunnable_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/status.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByExtendsThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/ExtendsThread_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/ImplRunnable_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/HiderInner_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/ThreadByExtendsThread_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/ThreadByImplRunnable_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways_01/ThreadByHiderInner_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/common_02/ThreadCommons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/daemon_03/ThreadDaemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/base/daemon_03/ThreadDaemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/base_01/daemon_03/ThreadDaemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/md/笔记一 多线程.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\local-repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-544" />
+    <option name="y" value="72" />
+    <option name="width" value="1771" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="md" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/md" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lang.thread" />
+      <recent name="lang.thread.difference" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\localspace\Thread\src\main\resources\md" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.thread.security_02" />
+      <recent name="lang.thread.ways" />
+      <recent name="lang.thread.difference" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\localspace\Thread\src\main\resources\md" />
+      <recent name="G:\localspace\Thread\src\main\java\lang\thread\base_01" />
+      <recent name="G:\localspace\Thread\src\main\resources\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadLocalDemon">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulateTrainTicket_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_01" />
+      <module name="thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulateTrainTicket_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_02" />
+      <module name="thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulateTrainTicket_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_03" />
+      <module name="thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulateTrainTicket_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_04" />
+      <module name="thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalDemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.ThreadLocalDemon" />
+      <module name="thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimulateTrainTicket_01" />
+      <item itemvalue="Application.SimulateTrainTicket_02" />
+      <item itemvalue="Application.SimulateTrainTicket_03" />
+      <item itemvalue="Application.SimulateTrainTicket_04" />
+      <item itemvalue="Application.ThreadLocalDemon" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadLocalDemon" />
+        <item itemvalue="Application.SimulateTrainTicket_04" />
+        <item itemvalue="Application.SimulateTrainTicket_03" />
+        <item itemvalue="Application.SimulateTrainTicket_02" />
+        <item itemvalue="Application.SimulateTrainTicket_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e332dade-4bcb-4007-ba2e-588cc5ba305e" name="Default" comment="" />
+      <created>1523035348197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523035348197</updated>
+      <workItem from="1523035351293" duration="6510000" />
+      <workItem from="1523077021719" duration="4938000" />
+      <workItem from="1523083985641" duration="20490000" />
+      <workItem from="1523146048736" duration="125000" />
+      <workItem from="1523162049800" duration="1850000" />
+      <workItem from="1523269331830" duration="2447000" />
+      <workItem from="1523334261992" duration="597000" />
+      <workItem from="1554736845330" duration="6879000" />
+      <workItem from="1554778226936" duration="3550000" />
+      <workItem from="1554998046316" duration="599000" />
+      <workItem from="1555066876082" duration="10019000" />
+      <workItem from="1555126222544" duration="11254000" />
+      <workItem from="1555204068141" duration="4877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ThreadByHiderInner_thread - 2019.04.09 at 02h 26m 22s.xml">
+      <configuration name="ThreadByHiderInner.thread" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInner_thread - 2019.04.09 at 02h 27m 08s.xml">
+      <configuration name="ThreadByHiderInner.thread" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_threadStart - 2019.04.09 at 02h 34m 04s.xml">
+      <configuration name="ThreadByHiderInnerTest.threadStart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_threadStart - 2019.04.09 at 02h 34m 21s.xml">
+      <configuration name="ThreadByHiderInnerTest.threadStart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_threadStart - 2019.04.09 at 02h 36m 14s.xml">
+      <configuration name="ThreadByHiderInnerTest.threadStart" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_isCallTimes - 2019.04.09 at 02h 38m 32s.xml">
+      <configuration name="ThreadByHiderInnerTest.isCallTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_isCallTimes - 2019.04.09 at 02h 39m 23s.xml">
+      <configuration name="ThreadByHiderInnerTest.isCallTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByImplRunnableTest_isCallTimes - 2019.04.09 at 02h 39m 54s.xml">
+      <configuration name="ThreadByImplRunnableTest.isCallTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByImplRunnableTest_isCallTimes - 2019.04.09 at 02h 43m 12s.xml">
+      <configuration name="ThreadByImplRunnableTest.isCallTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThreadByHiderInnerTest_isCallTimes - 2019.04.09 at 02h 45m 54s.xml">
+      <configuration name="ThreadByHiderInnerTest.isCallTimes" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74135000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-544" y="72" width="1771" height="930" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25891292" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36432162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3241206" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.26547745" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25053304" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29667383" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.42336547" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32475883" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32690248" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByImplRunnable_SharedTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplRunnable_Shared.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByImplRunnable_SharedTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoShared.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByExtendsThread_01.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByExtendsThread_01.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_03.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4047">
+            <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
+            <folding>
+              <marker date="1523109390868" expanded="true" signature="476:594" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="656:683" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="735:758" ph="/**...*/" />
+              <marker date="1523109390868" expanded="false" signature="839:849" ph=" { " />
+              <marker date="1523109390868" expanded="false" signature="878:884" ph=" }" />
+              <marker date="1523109390868" expanded="true" signature="889:918" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="954:1171" ph="{...}" />
+              <marker date="1523109390868" expanded="true" signature="1245:1285" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="1332:1375" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="1411:1598" ph="{...}" />
+              <marker date="1523109390868" expanded="true" signature="1604:1690" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="1730:1847" ph="{...}" />
+              <marker date="1523109390868" expanded="true" signature="2932:2997" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="3043:3066" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="3105:3394" ph="{...}" />
+              <marker date="1523109390868" expanded="true" signature="3400:3445" ph="/**...*/" />
+              <marker date="1523109390868" expanded="true" signature="3485:3728" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/Thread_logo.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/ThreadByExtendsThread_Result2.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/ThreadByImplRunnable_Result1.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByImplRunnable_SharedTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/ThreadByExtendsThread_Result1.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByExtendsThread_NoSharedTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/img/ThreadByImplRunnable_Result2.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/status.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByHiderInnerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByExtendsThreadTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lang/thread/ways/ThreadByImplRunnableTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/common/Join.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/common/Sleep.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/common/GetNameAndSetName.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/common/IsAlive.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByExtendsThread_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoShared.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplRunnable_Shared.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByImplRunnable_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/common_02/ThreadCommons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/daemon_03/ThreadDaemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/base_01/ways_01/ThreadByHiderInner_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="23" selection-start-line="10" selection-start-column="6" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+            <element signature="e#19132#19133#0" expanded="true" />
+            <element signature="e#19175#19176#0" expanded="true" />
+            <element signature="e#42956#42957#0" expanded="true" />
+            <element signature="e#42987#42988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="66" selection-end-line="67" />
+          <folding>
+            <element signature="e#257#411#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记三 多线程-Java 内存模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记一 多线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>thread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4898897" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
