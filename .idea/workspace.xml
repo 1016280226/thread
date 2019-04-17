@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e332dade-4bcb-4007-ba2e-588cc5ba305e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/notifymessage_03/Session_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_05.java" afterDir="false" />
+    <list default="true" id="e332dade-4bcb-4007-ba2e-588cc5ba305e" name="Default" comment="线程之间通讯代码">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/BlockQueue_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/ConcurrentLinkedQueue_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/SimulateProductAndConsumer_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,49 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-              <folding>
-                <element signature="e#410#411#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="484">
+              <caret line="25" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,57 +39,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="515" column="22" selection-start-line="515" selection-start-column="9" selection-end-line="515" selection-end-column="22" />
+            <state relative-caret-position="418">
+              <caret line="21" column="86" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="86" />
               <folding>
-                <element signature="e#8176#8177#0" expanded="true" />
-                <element signature="e#8216#8217#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/locks/Lock.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test003.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
+            <state relative-caret-position="462">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记一 多线程.md">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记二 多线程-线程安全.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
-                <caret line="152" selection-start-line="152" selection-end-line="152" />
-              </first_editor>
+              <first_editor />
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/notifymessage_03/Session_01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="123" column="14" selection-end-line="133" />
-              <folding>
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#1594#1595#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -148,17 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/thread/two_ways/ThreadByExtends.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtends.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/Thread_ByImplRunnable.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtendsThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByImplRunnable.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/ways/ThreadByExtendsThread_NoShared.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoSharedTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplThread_Shared.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByImplRunnable_Shared.java" />
         <option value="$PROJECT_DIR$/src/main/java/lang/thread/difference/ThreadByExtendsThread_NoShared.java" />
         <option value="$PROJECT_DIR$/src/test/java/lang/thread/difference/ThreadByImplRunnable_SharedTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -197,8 +140,19 @@
         <option value="$PROJECT_DIR$/src/main/java/lang/thread/socket_03/NotifyMessage_01.java" />
         <option value="$PROJECT_DIR$/src/main/java/lang/thread/socket_03/Session_01.java" />
         <option value="$PROJECT_DIR$/src/main/java/lang/thread/notifymessage_03/Session_01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java" />
         <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/BlockQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/ConcurrentLinkedQueue_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/BlockQueue_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/Product_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/Consumer_04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/queue_04/SimulateProductAndConsumer_03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test001.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test002.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test003.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -230,11 +184,11 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="260" />
-    <option name="y" value="313" />
-    <option name="width" value="1351" />
-    <option name="height" value="821" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-232" />
+    <option name="y" value="71" />
+    <option name="width" value="1940" />
+    <option name="height" value="1011" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -294,21 +248,6 @@
               <item name="thread" type="462c0819:PsiDirectoryNode" />
               <item name="security_02" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="thread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="md" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -320,15 +259,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/workspace/daikou/daikou/yingding-daikou-kernel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4898897" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\localspace\Thread多线程\thread\src\main\resources\md" />
       <recent name="G:\localspace\Thread\src\main\resources\md" />
       <recent name="G:\localspace\Thread\src\main\java\lang\thread\base_01" />
       <recent name="G:\localspace\Thread\src\main\resources\img" />
@@ -358,20 +298,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimulateTrainTicket_05">
+  <component name="RunManager" selected="Application.Test001">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Session_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.thread.notifymessage_03.Session_01" />
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.queue_04.Consumer" />
       <module name="thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.thread.notifymessage_03.*" />
+          <option name="PATTERN" value="lang.thread.queue_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,13 +319,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimulateTrainTicket_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_03" />
+    <configuration name="SimulateProductAndConsumer_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.queue_04.SimulateProductAndConsumer_03" />
       <module name="thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="PATTERN" value="lang.thread.queue_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,13 +333,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimulateTrainTicket_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_04" />
+    <configuration name="Test001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.pool_05.Test001" />
       <module name="thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="PATTERN" value="lang.thread.pool_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,13 +347,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimulateTrainTicket_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.SimulateTrainTicket_05" />
+    <configuration name="Test002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.pool_05.Test002" />
       <module name="thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="PATTERN" value="lang.thread.pool_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,13 +361,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalDemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.thread.security_02.ThreadLocalDemon" />
+    <configuration name="Test003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.thread.pool_05.Test003" />
       <module name="thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.thread.security_02.*" />
+          <option name="PATTERN" value="lang.thread.pool_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,19 +407,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimulateTrainTicket_03" />
-      <item itemvalue="Application.SimulateTrainTicket_04" />
-      <item itemvalue="Application.ThreadLocalDemon" />
-      <item itemvalue="Application.Session_01" />
-      <item itemvalue="Application.SimulateTrainTicket_05" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="Application.SimulateProductAndConsumer_03" />
+      <item itemvalue="Application.Test001" />
+      <item itemvalue="Application.Test002" />
+      <item itemvalue="Application.Test003" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimulateTrainTicket_05" />
-        <item itemvalue="Application.Session_01" />
-        <item itemvalue="Application.ThreadLocalDemon" />
-        <item itemvalue="Application.SimulateTrainTicket_04" />
-        <item itemvalue="Application.SimulateTrainTicket_03" />
+        <item itemvalue="Application.Test001" />
+        <item itemvalue="Application.Test003" />
+        <item itemvalue="Application.Test002" />
+        <item itemvalue="Application.SimulateProductAndConsumer_03" />
       </list>
     </recent_temporary>
   </component>
@@ -506,8 +445,33 @@
       <workItem from="1555066876082" duration="10019000" />
       <workItem from="1555126222544" duration="11254000" />
       <workItem from="1555204068141" duration="4877000" />
-      <workItem from="1555294169660" duration="8755000" />
+      <workItem from="1555294169660" duration="25099000" />
+      <workItem from="1555381501093" duration="599000" />
+      <workItem from="1555458943750" duration="815000" />
+      <workItem from="1555474765656" duration="5519000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;使用Lock锁-解决线程安全问题&quot;">
+      <created>1555320626362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555320626362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="线程之间通讯md">
+      <created>1555320716629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555320716629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="线程之间通讯代码">
+      <created>1555320726267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555320726267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -543,7 +507,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82890000" />
+    <option name="totallyTimeSpent" value="106167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,9 +519,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="562" y="0" width="1351" height="1087" extended-state="0" />
+    <frame x="-232" y="71" width="1940" height="1011" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30828816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31702128" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -567,8 +531,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32948583" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.30430222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839224" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1949829" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
@@ -576,10 +540,10 @@
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" weight="0.3290461" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3241206" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4082098" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.2633788" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.18711019" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25053304" />
@@ -628,6 +592,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;使用Lock锁-解决线程安全问题&quot;" />
+    <MESSAGE value="线程之间通讯md" />
+    <MESSAGE value="线程之间通讯代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程之间通讯代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -698,6 +668,18 @@
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/SimulateProductAndConsumer_03.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/SimulateProductAndConsumer_03.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -708,23 +690,23 @@
           <first_editor relative-caret-position="4047">
             <caret line="215" column="8" selection-start-line="215" selection-start-column="8" selection-end-line="215" selection-end-column="8" />
             <folding>
-              <marker date="1523109390868" expanded="true" signature="476:594" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="656:683" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="735:758" ph="/**...*/" />
-              <marker date="1523109390868" expanded="false" signature="839:849" ph=" { " />
-              <marker date="1523109390868" expanded="false" signature="878:884" ph=" }" />
-              <marker date="1523109390868" expanded="true" signature="889:918" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="954:1171" ph="{...}" />
-              <marker date="1523109390868" expanded="true" signature="1245:1285" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="1332:1375" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="1411:1598" ph="{...}" />
-              <marker date="1523109390868" expanded="true" signature="1604:1690" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="1730:1847" ph="{...}" />
-              <marker date="1523109390868" expanded="true" signature="2932:2997" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="3043:3066" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="3105:3394" ph="{...}" />
-              <marker date="1523109390868" expanded="true" signature="3400:3445" ph="/**...*/" />
-              <marker date="1523109390868" expanded="true" signature="3485:3728" ph="{...}" />
+              <marker date="1555320887899" expanded="true" signature="476:594" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="656:683" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="735:758" ph="/**...*/" />
+              <marker date="1555320887899" expanded="false" signature="839:849" ph=" { " />
+              <marker date="1555320887899" expanded="false" signature="878:884" ph=" }" />
+              <marker date="1555320887899" expanded="true" signature="889:918" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="954:1171" ph="{...}" />
+              <marker date="1555320887899" expanded="true" signature="1245:1285" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="1332:1375" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="1411:1598" ph="{...}" />
+              <marker date="1555320887899" expanded="true" signature="1604:1690" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="1730:1847" ph="{...}" />
+              <marker date="1555320887899" expanded="true" signature="2932:2997" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="3043:3066" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="3105:3394" ph="{...}" />
+              <marker date="1555320887899" expanded="true" signature="3400:3445" ph="/**...*/" />
+              <marker date="1555320887899" expanded="true" signature="3485:3728" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -845,13 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
@@ -866,6 +841,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -877,30 +869,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_02.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="117">
+          <caret line="367" column="19" selection-start-line="367" selection-start-column="19" selection-end-line="367" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/ConcurrentLinkedQueue_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/Consumer_04.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/BlockQueue_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="195">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/Res_05.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/security_02/SimulateTrainTicket_04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        <state relative-caret-position="547">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/queue_04/SimulateProductAndConsumer_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#2269#2270#0" expanded="true" />
+            <element signature="e#1639#1640#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="88" column="56" selection-start-line="88" selection-start-column="48" selection-end-line="88" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lang/thread/pool_05/Test003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/md/笔记二 多线程-线程安全.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
     </entry>

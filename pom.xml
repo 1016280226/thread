@@ -6,16 +6,62 @@
 
     <groupId>org.thread</groupId>
     <artifactId>Thread</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <dependencies>
+    <version>1.0.RELEASE</version>
+    <packaging>jar</packaging>
 
+    <!--注意：限定版本为RELEASE,所以上传的对应的仓库存储类型为RELEASE-->
+    <!--指定Maven仓库地址-->
+    <distributionManagement>
+        <repository>
+            <id>Calvin</id>
+            <url>http://192.168.197.134:8081/repository/calvin-release/</url>
+        </repository>
+    </distributionManagement>
+
+    <dependencies>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
         </dependency>
-
     </dependencies>
+
+    <build>
+        <finalName>thread</finalName>
+
+        <plugins>
+
+            <!--发布代码jar 插件-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>2.8.2</version>
+            </plugin>
+            <!-- 发布源代码插件-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>2.2.1</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 
 </project>
